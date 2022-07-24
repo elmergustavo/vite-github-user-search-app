@@ -99,7 +99,7 @@ export const TopArea = ({ setUser }: TopAreaProps) => {
         }}
       >
         <InputLabel>
-          <img src="../../public/assets/icon-search.svg" />
+          <img src="/assets/icon-search.svg"  alt="search .."/>
         </InputLabel>
 
         <Input
